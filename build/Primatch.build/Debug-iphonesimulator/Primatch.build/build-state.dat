@@ -1,0 +1,986 @@
+TPrimatch
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Info.plist Primatch/Primatch-Info.plist
+cProcessPCH /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch.pth Primatch/Primatch-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/main.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/AppDelegate.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/ViewController.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/WelcomeScreen.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/GameScreen1.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/XMLReader.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/XMLReader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/NSString+ContainsSubstring.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/NSString+ContainsSubstring.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/CardImageView.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/CardImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Primatch normal i386
+cGenerateDSYMFile /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app.dSYM /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Primatch
+cCopyStringsFile /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/en.lproj/InfoPlist.strings Primatch/en.lproj/InfoPlist.strings
+cCompileXIB /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPhone.xib
+cCompileXIB /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPad.xib
+cCpResource Default@2x.png build/Debug-iphonesimulator/Primatch.app/Default@2x.png
+cCpResource Default.png build/Debug-iphonesimulator/Primatch.app/Default.png
+cCompileXIB /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.xib
+cCpResource Primatch/background-main.png build/Debug-iphonesimulator/Primatch.app/background-main.png
+cCpResource Primatch/lets-go-button.png build/Debug-iphonesimulator/Primatch.app/lets-go-button.png
+cCompileXIB /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.xib
+cCpResource Primatch/background-blank.png build/Debug-iphonesimulator/Primatch.app/background-blank.png
+cCpResource Primatch/primates.xml build/Debug-iphonesimulator/Primatch.app/primates.xml
+cCpResource Primatch/golden-lion-tamarin.png build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin.png
+cCpResource Primatch/chimpanzee.png build/Debug-iphonesimulator/Primatch.app/chimpanzee.png
+cCpResource Primatch/humam.png build/Debug-iphonesimulator/Primatch.app/humam.png
+cCpResource Primatch/black-lemur.png build/Debug-iphonesimulator/Primatch.app/black-lemur.png
+cCpResource Primatch/yellow-baboon.png build/Debug-iphonesimulator/Primatch.app/yellow-baboon.png
+cCpResource Primatch/white-cheeked-spider-monkey.png build/Debug-iphonesimulator/Primatch.app/white-cheeked-spider-monkey.png
+cCpResource Primatch/western-gorilla.png build/Debug-iphonesimulator/Primatch.app/western-gorilla.png
+cCpResource Primatch/senegal-bushbaby.png build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby.png
+cCpResource Primatch/sumatran-orangutan.png build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan.png
+cCpResource Primatch/proboscis-monkey.png build/Debug-iphonesimulator/Primatch.app/proboscis-monkey.png
+cCpResource Primatch/western-gorilla-map.png build/Debug-iphonesimulator/Primatch.app/western-gorilla-map.png
+cCpResource Primatch/chimpanzee-map.png build/Debug-iphonesimulator/Primatch.app/chimpanzee-map.png
+cCpResource Primatch/White-cheeked-spider-monkey-map.png build/Debug-iphonesimulator/Primatch.app/White-cheeked-spider-monkey-map.png
+cCpResource Primatch/sumatran-orangutan-map.png build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan-map.png
+cCpResource Primatch/proboscis-monkey-map.png build/Debug-iphonesimulator/Primatch.app/proboscis-monkey-map.png
+cCpResource Primatch/senegal-bushbaby-map.png build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby-map.png
+cCpResource Primatch/golden-lion-tamarin-map.png build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin-map.png
+cCpResource Primatch/yellow-baboon-map.png build/Debug-iphonesimulator/Primatch.app/yellow-baboon-map.png
+cCpResource Primatch/human-map.png build/Debug-iphonesimulator/Primatch.app/human-map.png
+cCpResource Primatch/black-lemur-map.png build/Debug-iphonesimulator/Primatch.app/black-lemur-map.png
+cCpResource Primatch/card-front.png build/Debug-iphonesimulator/Primatch.app/card-front.png
+cTouch /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004F124E130000000000000110
+t1326599699
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E72F1CC0000000000245480
+t1316155852
+s2380928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E72F2960000000000353830
+t1316156054
+s3487792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E7806AB00000000008F7390
+t1316488875
+s9401232
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Default.png
+c00000000500AE74E00000000000453D3
+t1342891854
+s283603
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Default@2x.png
+c00000000500AE74E00000000000453D3
+t1342891854
+s283603
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/AppDelegate.h
+c00000000500ADBB50000000000000171
+t1342888885
+s369
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/AppDelegate.m
+c00000000500ADBB50000000000000B00
+t1342888885
+s2816
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/CardImageView.h
+c00000000500C299800000000000006D4
+t1342974360
+s1748
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/CardImageView.m
+c00000000500C299800000000000011B0
+t1342974360
+s4528
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.h
+c00000000500C43AA000000000000054E
+t1342981034
+s1358
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.m
+c00000000500C457200000000000037C6
+t1342981490
+s14278
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.xib
+c00000000500B9F5B0000000000001D56
+t1342938971
+s7510
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/NSString+ContainsSubstring.h
+c00000000500B268A0000000000000152
+t1342908042
+s338
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/NSString+ContainsSubstring.m
+c00000000500B268400000000000009D6
+t1342908036
+s2518
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/Primatch-Prefix.pch
+c00000000500ADBB5000000000000013F
+t1342888885
+s319
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/ViewController.h
+c00000000500AECF500000000000000E1
+t1342893301
+s225
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/ViewController.m
+c00000000500AECEB00000000000005E1
+t1342893291
+s1505
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.h
+c00000000500AFB1C000000000000013E
+t1342896924
+s318
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.m
+c00000000500B9D99000000000000064F
+t1342938521
+s1615
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.xib
+c00000000500B28760000000000002371
+t1342908534
+s9073
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/White-cheeked-spider-monkey-map.png
+c00000000500B272E000000000000139F
+t1342908206
+s5023
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/XMLReader.h
+c00000000500B2876000000000000041E
+t1342908534
+s1054
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/XMLReader.m
+c00000000500B364E00000000000010F6
+t1342912078
+s4342
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/background-blank.png
+c00000000500ADBF80000000000034FE2
+t1342888952
+s217058
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/background-main.png
+c00000000500AE74E00000000000453D3
+t1342891854
+s283603
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/black-lemur-map.png
+c00000000500B123600000000000063C0
+t1342902838
+s25536
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/black-lemur.png
+c00000000500B3FF600000000000266EB
+t1342914550
+s157419
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/card-front.png
+c00000000500B6C85000000000000521D
+t1342925957
+s21021
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/chimpanzee-map.png
+c00000000500B27F000000000000095C8
+t1342908400
+s38344
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/chimpanzee.png
+c00000000500B425C00000000000285BA
+t1342915164
+s165306
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/InfoPlist.strings
+c00000000500ADBB5000000000000002D
+t1342888885
+s45
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPad.xib
+c00000000500ADBB50000000000001454
+t1342888885
+s5204
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPhone.xib
+c00000000500ADBB5000000000000146B
+t1342888885
+s5227
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/golden-lion-tamarin-map.png
+c00000000500B1F1E0000000000002ED2
+t1342906142
+s11986
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/golden-lion-tamarin.png
+c00000000500B428800000000000513B7
+t1342915208
+s332727
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/humam.png
+c00000000500B407200000000000109FD
+t1342914674
+s68093
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/human-map.png
+c00000000500B133600000000000072EE
+t1342903094
+s29422
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/lets-go-button.png
+c00000000500AF71700000000000011D9
+t1342895895
+s4569
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/main.m
+c00000000500ADBB50000000000000155
+t1342888885
+s341
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/primates.xml
+c00000000500B61BE00000000000019DE
+t1342923198
+s6622
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/proboscis-monkey-map.png
+c00000000500B22E00000000000008A95
+t1342907104
+s35477
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/proboscis-monkey.png
+c00000000500B3D60000000000001AE7E
+t1342913888
+s110206
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/senegal-bushbaby-map.png
+c00000000500B20C20000000000005B68
+t1342906562
+s23400
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/senegal-bushbaby.png
+c00000000500B3E3200000000000115B3
+t1342914098
+s71091
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/sumatran-orangutan-map.png
+c00000000500B24D60000000000001902
+t1342907606
+s6402
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/sumatran-orangutan.png
+c00000000500B3DB4000000000001E756
+t1342913972
+s124758
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/western-gorilla-map.png
+c00000000500B286000000000000021EE
+t1342908512
+s8686
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/western-gorilla.png
+c00000000500B3F36000000000001BCF1
+t1342914358
+s113905
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/white-cheeked-spider-monkey.png
+c00000000500B3F700000000000024F1C
+t1342914416
+s151324
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/yellow-baboon-map.png
+c00000000500B1DE000000000000043ED
+t1342905824
+s17389
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/yellow-baboon.png
+c00000000500B3FCE00000000000249E5
+t1342914510
+s149989
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app
+t1342981491
+s1190
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app.dSYM
+t1342981491
+s102
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Default.png
+t1342892015
+s283603
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Default@2x.png
+t1342892015
+s283603
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/GameScreen1.nib
+t1342938973
+s1253
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Info.plist
+t1342888988
+s934
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/PkgInfo
+t1342888988
+s8
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Primatch
+t1342981491
+s78072
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/WelcomeScreen.nib
+t1342908545
+s1966
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/White-cheeked-spider-monkey-map.png
+t1342916616
+s5023
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/background-blank.png
+t1342908545
+s217058
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/background-main.png
+t1342893301
+s283603
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/black-lemur-map.png
+t1342916616
+s25536
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/black-lemur.png
+t1342916616
+s157419
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/card-front.png
+t1342926028
+s21021
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/chimpanzee-map.png
+t1342916616
+s38344
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/chimpanzee.png
+t1342916616
+s165306
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/en.lproj/InfoPlist.strings
+t1342888988
+s42
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/en.lproj/ViewController_iPad.nib
+t1342888990
+s792
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/en.lproj/ViewController_iPhone.nib
+t1342888990
+s823
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin-map.png
+t1342916616
+s11986
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin.png
+t1342916616
+s332727
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/humam.png
+t1342916616
+s68093
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/human-map.png
+t1342916616
+s29422
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/lets-go-button.png
+t1342895920
+s4569
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/primates.xml
+t1342923198
+s6622
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/proboscis-monkey-map.png
+t1342916616
+s35477
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/proboscis-monkey.png
+t1342916616
+s110206
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby-map.png
+t1342916616
+s23400
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby.png
+t1342916616
+s71091
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan-map.png
+t1342916616
+s6402
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan.png
+t1342916616
+s124758
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/western-gorilla-map.png
+t1342916616
+s8686
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/western-gorilla.png
+t1342916616
+s113905
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/white-cheeked-spider-monkey.png
+t1342916616
+s151324
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/yellow-baboon-map.png
+t1342916616
+s17389
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/yellow-baboon.png
+t1342916616
+s149989
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/AppDelegate.o
+t1342893301
+s53048
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/CardImageView.o
+t1342974360
+s58272
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/GameScreen1.o
+t1342981491
+s85652
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/NSString+ContainsSubstring.o
+t1342908537
+s9492
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/Primatch.LinkFileList
+c00000000500B7B38000000000000048D
+t1342929720
+s1165
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/ViewController.o
+t1342896924
+s41852
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/WelcomeScreen.o
+t1342981034
+s43760
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/XMLReader.o
+t1342912079
+s23260
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/main.o
+t1342888988
+s2604
+
+N/Users/jrichards/projects/MoversAndShakers/Primatch/temp/lets-go-button.png
+c00000000500AF3A60000000000000C1E
+t1342895014
+s3102
+
+N/var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch.pth
+t1342888988
+s3907476
+
+NPrimatch/Primatch-Info.plist
+c00000000500ADBB500000000000005E4
+t1342888885
+s1508
+
+CBuild AST from /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/AppDelegate.m
+r0
+
+CBuild AST from /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/CardImageView.m
+r0
+
+CBuild AST from /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.m
+r0
+
+CBuild AST from /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/NSString+ContainsSubstring.m
+r0
+
+CBuild AST from /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/ViewController.m
+r0
+
+CBuild AST from /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.m
+r0
+
+CBuild AST from /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/XMLReader.m
+r0
+
+CBuild AST from /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf46a90637dbcb541^9acf91637dbcb541^---0#1#0#--18"Check dependencies36"C4D17455-7C83-4AD8-875A-F15F4DD0F910-
+
+CCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/AppDelegate.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364586101.726805
+e364586101.860048
+r1
+xCompileC
+xbuild/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/AppDelegate.o
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/AppDelegate.mb535ba7524bbb541^003adc7524bbb541^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/AppDelegate.m0000000000000000^2833"CompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/AppDelegate.o Primatch/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-generated-files.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-own-target-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-all-target-headers.hmap -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-project-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/include -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources/i386 -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources -F/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -include /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch -MMD -MT dependencies -MF /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/AppDelegate.d -c /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/AppDelegate.m -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/AppDelegate.o36"6B24C2FB-C0FA-4A86-9B9D-896F2764F244-
+
+CCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/CardImageView.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/CardImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364667160.699968
+e364667160.783674
+r1
+xCompileC
+xbuild/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/CardImageView.o
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/CardImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/CardImageView.m514bb31861bcb541^d2a8c81861bcb541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/CardImageView.m0000000000000000^2843"CompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/CardImageView.o Primatch/CardImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-generated-files.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-own-target-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-all-target-headers.hmap -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-project-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/include -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources/i386 -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources -F/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -include /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch -MMD -MT dependencies -MF /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/CardImageView.d -c /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/CardImageView.m -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/CardImageView.o36"9F2DA443-BE59-4122-B33B-57A67E1C14AB-
+
+CCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/GameScreen1.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364674291.105683
+e364674291.234116
+r1
+xCompileC
+xbuild/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/GameScreen1.o
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.m18261bf37cbcb541^3a063cf37cbcb541^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.m0000000000000000^2833"CompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/GameScreen1.o Primatch/GameScreen1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-generated-files.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-own-target-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-all-target-headers.hmap -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-project-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/include -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources/i386 -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources -F/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -include /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch -MMD -MT dependencies -MF /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/GameScreen1.d -c /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.m -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/GameScreen1.o36"D15E8513-524C-4FB5-A964-AE3101C4C70C-
+
+CCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/NSString+ContainsSubstring.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/NSString+ContainsSubstring.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364601337.389066
+e364601337.419409
+r1
+xCompileC
+xbuild/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/NSString+ContainsSubstring.o
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/NSString+ContainsSubstring.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/NSString+ContainsSubstring.mfab363f95fbbb541^d45f6bf95fbbb541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/NSString+ContainsSubstring.m0000000000000000^2908"CompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/NSString+ContainsSubstring.o Primatch/NSString+ContainsSubstring.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-generated-files.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-own-target-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-all-target-headers.hmap -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-project-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/include -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources/i386 -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources -F/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -include /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch -MMD -MT dependencies -MF /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/NSString+ContainsSubstring.d -c /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/NSString+ContainsSubstring.m -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/NSString+ContainsSubstring.o36"32DF8B07-1699-4776-A43D-B01928C75246-
+
+CCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/ViewController.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364589724.159343
+e364589724.227823
+r1
+xCompileC
+xbuild/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/ViewController.o
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/ViewController.mdffe289c32bbb541^fc533a9c32bbb541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/ViewController.m0000000000000000^2848"CompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/ViewController.o Primatch/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-generated-files.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-own-target-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-all-target-headers.hmap -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-project-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/include -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources/i386 -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources -F/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -include /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch -MMD -MT dependencies -MF /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/ViewController.d -c /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/ViewController.m -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/ViewController.o36"05B486D2-ADB7-4ECA-A9FB-5F5FC43EEE43-
+
+CCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/WelcomeScreen.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364673834.549173
+e364673834.672175
+r1
+xCompileC
+xbuild/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/WelcomeScreen.o
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.mdaae8c2a7bbcb541^075fac2a7bbcb541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.m0000000000000000^2843"CompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/WelcomeScreen.o Primatch/WelcomeScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-generated-files.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-own-target-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-all-target-headers.hmap -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-project-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/include -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources/i386 -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources -F/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -include /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch -MMD -MT dependencies -MF /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/WelcomeScreen.d -c /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.m -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/WelcomeScreen.o36"A7B94100-6D60-4C39-8A67-E90097C4428E-
+
+CCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/XMLReader.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/XMLReader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364604879.257372
+e364604879.384074
+r1
+xCompileC
+xbuild/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/XMLReader.o
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/XMLReader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/XMLReader.mb9fa41cf6dbbb541^014e63cf6dbbb541^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/XMLReader.m0000000000000000^2823"CompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/XMLReader.o Primatch/XMLReader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-generated-files.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-own-target-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-all-target-headers.hmap -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-project-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/include -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources/i386 -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources -F/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -include /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch -MMD -MT dependencies -MF /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/XMLReader.d -c /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/XMLReader.m -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/XMLReader.o36"FC626E43-565E-4534-B24B-D3BC7DB8DE4B-
+
+CCompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/main.o /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364581788.794718
+e364581788.826792
+r1
+xCompileC
+xbuild/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/main.o
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/main.m338ccb9c13bbb541^93a8d39c13bbb541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/main.m0000000000000000^2798"CompileC build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/main.o Primatch/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-generated-files.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-own-target-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-all-target-headers.hmap -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-project-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/include -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources/i386 -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources -F/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -include /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch -MMD -MT dependencies -MF /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/main.d -c /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/main.m -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/main.o36"1C01A419-7AFC-4016-80B9-742CA711A5BC-
+
+CCompileXIB /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.xib
+s364631771.404044
+e364631773.398865
+r1
+xCompileXIB
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compiling /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.xibf98567dbd6bbb541^691c66ddd6bbb541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.xib0000000000000000^715"CompileXIB Primatch/GameScreen1.xib    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/GameScreen1.nib /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/GameScreen1.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"266BDEDA-2A41-4897-AC8C-3997631C1C99-
+
+CCompileXIB /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.xib
+s364601340.199452
+e364601345.356050
+r1
+xCompileXIB
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compiling /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.xib212033fc5fbbb541^31285b0160bbb541^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.xib0000000000000000^721"CompileXIB Primatch/WelcomeScreen.xib    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/WelcomeScreen.nib /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/WelcomeScreen.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"710ACD7A-77FE-497C-8B61-501EB062CDA8-
+
+CCompileXIB /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPad.xib
+s364581788.947324
+e364581790.365011
+r1
+xCompileXIB
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPad.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compiling /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPad.xibd592f29c13bbb541^26725d9e13bbb541^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPad.xib0000000000000000^766"CompileXIB Primatch/en.lproj/ViewController_iPad.xib    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/en.lproj/ViewController_iPad.nib /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"C3059230-ED7A-460E-B831-F7BB52A81755-
+
+CCompileXIB /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPhone.xib
+s364581788.942824
+e364581790.278817
+r1
+xCompileXIB
+x/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPhone.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compiling /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPhone.xib986bf19c13bbb541^cc61479e13bbb541^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPhone.xib0000000000000000^772"CompileXIB Primatch/en.lproj/ViewController_iPhone.xib    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/en.lproj/ViewController_iPhone.nib /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/ViewController_iPhone.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk36"19D76E1D-43C3-479B-8068-A43A9E4F14E7-
+
+CCopyStringsFile /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/en.lproj/InfoPlist.strings Primatch/en.lproj/InfoPlist.strings
+s364581788.941051
+e364581788.946216
+r1
+xCopyStringsFile
+x/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/en.lproj/InfoPlist.strings
+xPrimatch/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Primatch/en.lproj/InfoPlist.strings72f8f09c13bbb541^a241f29c13bbb541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/en.lproj/InfoPlist.strings0000000000000000^541"CopyStringsFile build/Debug-iphonesimulator/Primatch.app/en.lproj/InfoPlist.strings Primatch/en.lproj/InfoPlist.strings    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/en.lproj -- Primatch/en.lproj/InfoPlist.strings36"93164C40-2C24-44BF-B1A7-4DF5CB676832-
+
+CCpResource Default.png build/Debug-iphonesimulator/Primatch.app/Default.png
+s364584815.763942
+e364584815.768370
+r1
+xCpResource
+xDefault.png
+xbuild/Debug-iphonesimulator/Primatch.app/Default.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Debug-iphonesimulator/Primatch.app/Default.png919dc36f1fbbb541^90bbc46f1fbbb541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Default.png0000000000000000^535"CpResource Default.png build/Debug-iphonesimulator/Primatch.app/Default.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Default.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"6BCC115C-24A0-43DE-9696-83478463CF89-
+
+CCpResource Default@2x.png build/Debug-iphonesimulator/Primatch.app/Default@2x.png
+s364584815.762876
+e364584815.768431
+r1
+xCpResource
+xDefault@2x.png
+xbuild/Debug-iphonesimulator/Primatch.app/Default@2x.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/Primatch.app/Default@2x.pngc762c36f1fbbb541^9ab5c46f1fbbb541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Default@2x.png00f8ec03dcffdf42^550"CpResource "Default@2x.png" "build/Debug-iphonesimulator/Primatch.app/Default@2x.png"    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/jrichards/projects/MoversAndShakers/Primatch/Default@2x.png" /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"5E43358A-E0EC-4D0A-A866-E65A34792D8B-
+
+CCpResource Primatch/White-cheeked-spider-monkey-map.png build/Debug-iphonesimulator/Primatch.app/White-cheeked-spider-monkey-map.png
+s364609416.423178
+e364609416.425465
+r1
+xCpResource
+xPrimatch/White-cheeked-spider-monkey-map.png
+xbuild/Debug-iphonesimulator/Primatch.app/White-cheeked-spider-monkey-map.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy build/Debug-iphonesimulator/Primatch.app/White-cheeked-spider-monkey-map.pngbb646c887fbbb541^acfe6c887fbbb541^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/White-cheeked-spider-monkey-map.png00f8ec03dcffdf42^625"CpResource Primatch/White-cheeked-spider-monkey-map.png build/Debug-iphonesimulator/Primatch.app/White-cheeked-spider-monkey-map.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/White-cheeked-spider-monkey-map.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"669E24E8-1B43-4EA2-9CBA-A9C572E1050D-
+
+CCpResource Primatch/background-blank.png build/Debug-iphonesimulator/Primatch.app/background-blank.png
+s364601345.357362
+e364601345.509918
+r1
+xCpResource
+xPrimatch/background-blank.png
+xbuild/Debug-iphonesimulator/Primatch.app/background-blank.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/Primatch.app/background-blank.png118c5b0160bbb541^b58a820160bbb541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/background-blank.png00f8ec03dcffdf42^580"CpResource Primatch/background-blank.png build/Debug-iphonesimulator/Primatch.app/background-blank.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/background-blank.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"EF33D0FB-D512-4E3A-A929-6939F11798C1-
+
+CCpResource Primatch/background-main.png build/Debug-iphonesimulator/Primatch.app/background-main.png
+s364586101.967450
+e364586101.970018
+r1
+xCpResource
+xPrimatch/background-main.png
+xbuild/Debug-iphonesimulator/Primatch.app/background-main.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphonesimulator/Primatch.app/background-main.pnge4bcf77524bbb541^1c5ef87524bbb541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/background-main.png00f8ec03dcffdf42^577"CpResource Primatch/background-main.png build/Debug-iphonesimulator/Primatch.app/background-main.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/background-main.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"EE6147F7-4025-4B43-9DE8-5D4494C1BA40-
+
+CCpResource Primatch/black-lemur-map.png build/Debug-iphonesimulator/Primatch.app/black-lemur-map.png
+s364609416.444775
+e364609416.447277
+r1
+xCpResource
+xPrimatch/black-lemur-map.png
+xbuild/Debug-iphonesimulator/Primatch.app/black-lemur-map.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphonesimulator/Primatch.app/black-lemur-map.png1de871887fbbb541^5d8772887fbbb541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/black-lemur-map.png00f8ec03dcffdf42^577"CpResource Primatch/black-lemur-map.png build/Debug-iphonesimulator/Primatch.app/black-lemur-map.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/black-lemur-map.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"4BBADA8C-378D-4957-8EB9-0A4D27230964-
+
+CCpResource Primatch/black-lemur.png build/Debug-iphonesimulator/Primatch.app/black-lemur.png
+s364609416.400158
+e364609416.403368
+r1
+xCpResource
+xPrimatch/black-lemur.png
+xbuild/Debug-iphonesimulator/Primatch.app/black-lemur.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/Primatch.app/black-lemur.png4e7b66887fbbb541^f77267887fbbb541^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/black-lemur.png00f8ec03dcffdf42^565"CpResource Primatch/black-lemur.png build/Debug-iphonesimulator/Primatch.app/black-lemur.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/black-lemur.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"E2C91AA9-A88B-4BE8-AEA1-61FF81885DE9-
+
+CCpResource Primatch/card-front.png build/Debug-iphonesimulator/Primatch.app/card-front.png
+s364618828.080910
+e364618828.083453
+r1
+xCpResource
+xPrimatch/card-front.png
+xbuild/Debug-iphonesimulator/Primatch.app/card-front.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/Primatch.app/card-front.png0dc6144ca4bbb541^976f154ca4bbb541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/card-front.png00f8ec03dcffdf42^562"CpResource Primatch/card-front.png build/Debug-iphonesimulator/Primatch.app/card-front.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/card-front.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"79F42F22-08E9-4021-A5BF-ABE1EE86C5A3-
+
+CCpResource Primatch/chimpanzee-map.png build/Debug-iphonesimulator/Primatch.app/chimpanzee-map.png
+s364609416.420838
+e364609416.422822
+r1
+xCpResource
+xPrimatch/chimpanzee-map.png
+xbuild/Debug-iphonesimulator/Primatch.app/chimpanzee-map.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphonesimulator/Primatch.app/chimpanzee-map.png9fc86b887fbbb541^29406c887fbbb541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/chimpanzee-map.png00f8ec03dcffdf42^574"CpResource Primatch/chimpanzee-map.png build/Debug-iphonesimulator/Primatch.app/chimpanzee-map.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/chimpanzee-map.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"A8EF7F25-B940-4CC9-8837-1B13E354863B-
+
+CCpResource Primatch/chimpanzee.png build/Debug-iphonesimulator/Primatch.app/chimpanzee.png
+s364609416.395728
+e364609416.398847
+r1
+xCpResource
+xPrimatch/chimpanzee.png
+xbuild/Debug-iphonesimulator/Primatch.app/chimpanzee.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/Primatch.app/chimpanzee.png6c5a65887fbbb541^883066887fbbb541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/chimpanzee.png00f8ec03dcffdf42^562"CpResource Primatch/chimpanzee.png build/Debug-iphonesimulator/Primatch.app/chimpanzee.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/chimpanzee.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"2A5F1C4A-C5B5-412E-A671-4303E56187FB-
+
+CCpResource Primatch/golden-lion-tamarin-map.png build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin-map.png
+s364609416.430250
+e364609416.443040
+r1
+xCpResource
+xPrimatch/golden-lion-tamarin-map.png
+xbuild/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin-map.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin-map.png22346e887fbbb541^a87371887fbbb541^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin-map.png00f8ec03dcffdf42^601"CpResource Primatch/golden-lion-tamarin-map.png build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin-map.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/golden-lion-tamarin-map.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"7E3EB903-44E2-4773-ADCE-E74BED647D3C-
+
+CCpResource Primatch/golden-lion-tamarin.png build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin.png
+s364609416.394846
+e364609416.399000
+r1
+xCpResource
+xPrimatch/golden-lion-tamarin.png
+xbuild/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin.png4f2365887fbbb541^873466887fbbb541^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin.png00f8ec03dcffdf42^589"CpResource Primatch/golden-lion-tamarin.png build/Debug-iphonesimulator/Primatch.app/golden-lion-tamarin.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/golden-lion-tamarin.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"2EFA84C9-F127-4244-8C5C-4A596E103A29-
+
+CCpResource Primatch/humam.png build/Debug-iphonesimulator/Primatch.app/humam.png
+s364609416.399967
+e364609416.404789
+r1
+xCpResource
+xPrimatch/humam.png
+xbuild/Debug-iphonesimulator/Primatch.app/humam.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Debug-iphonesimulator/Primatch.app/humam.png668566887fbbb541^859867887fbbb541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/humam.png00f8ec03dcffdf42^547"CpResource Primatch/humam.png build/Debug-iphonesimulator/Primatch.app/humam.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/humam.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"4D85B4E5-884D-4521-A478-612B88CCFBE2-
+
+CCpResource Primatch/human-map.png build/Debug-iphonesimulator/Primatch.app/human-map.png
+s364609416.444174
+e364609416.446355
+r1
+xCpResource
+xPrimatch/human-map.png
+xbuild/Debug-iphonesimulator/Primatch.app/human-map.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/Primatch.app/human-map.png9cc371887fbbb541^e04a72887fbbb541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/human-map.png00f8ec03dcffdf42^559"CpResource Primatch/human-map.png build/Debug-iphonesimulator/Primatch.app/human-map.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/human-map.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"B25C946C-26F5-4925-AF69-AD3BFA8F9D06-
+
+CCpResource Primatch/lets-go-button.png build/Debug-iphonesimulator/Primatch.app/lets-go-button.png
+s364588720.291883
+e364588720.295374
+r1
+xCpResource
+xPrimatch/lets-go-button.png
+xbuild/Debug-iphonesimulator/Primatch.app/lets-go-button.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphonesimulator/Primatch.app/lets-go-button.png71c84ab02ebbb541^e0a24bb02ebbb541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/lets-go-button.png0000000000000000^574"CpResource Primatch/lets-go-button.png build/Debug-iphonesimulator/Primatch.app/lets-go-button.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/lets-go-button.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"27DF17CA-9E19-4666-B499-EA1DC44379E2-
+
+CCpResource Primatch/primates.xml build/Debug-iphonesimulator/Primatch.app/primates.xml
+s364615998.458067
+e364615998.465243
+r1
+xCpResource
+xPrimatch/primates.xml
+xbuild/Debug-iphonesimulator/Primatch.app/primates.xml
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphonesimulator/Primatch.app/primates.xml6b62753e99bbb541^7a1b773e99bbb541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/primates.xml0000000000000000^556"CpResource Primatch/primates.xml build/Debug-iphonesimulator/Primatch.app/primates.xml    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/primates.xml /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"7EEA71C6-08C2-41D1-B13E-DB7BE2CFCEF8-
+
+CCpResource Primatch/proboscis-monkey-map.png build/Debug-iphonesimulator/Primatch.app/proboscis-monkey-map.png
+s364609416.426874
+e364609416.428991
+r1
+xCpResource
+xPrimatch/proboscis-monkey-map.png
+xbuild/Debug-iphonesimulator/Primatch.app/proboscis-monkey-map.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug-iphonesimulator/Primatch.app/proboscis-monkey-map.pngca546d887fbbb541^91d56d887fbbb541^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/proboscis-monkey-map.png00f8ec03dcffdf42^592"CpResource Primatch/proboscis-monkey-map.png build/Debug-iphonesimulator/Primatch.app/proboscis-monkey-map.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/proboscis-monkey-map.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"23DC99DE-1E92-49EF-9FEA-1030DE1F05DD-
+
+CCpResource Primatch/proboscis-monkey.png build/Debug-iphonesimulator/Primatch.app/proboscis-monkey.png
+s364609416.415124
+e364609416.418388
+r1
+xCpResource
+xPrimatch/proboscis-monkey.png
+xbuild/Debug-iphonesimulator/Primatch.app/proboscis-monkey.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/Primatch.app/proboscis-monkey.png71546a887fbbb541^aa276b887fbbb541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/proboscis-monkey.png00f8ec03dcffdf42^580"CpResource Primatch/proboscis-monkey.png build/Debug-iphonesimulator/Primatch.app/proboscis-monkey.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/proboscis-monkey.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"2F0EA81A-A56D-4845-A276-E3EE22380208-
+
+CCpResource Primatch/senegal-bushbaby-map.png build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby-map.png
+s364609416.427663
+e364609416.429759
+r1
+xCpResource
+xPrimatch/senegal-bushbaby-map.png
+xbuild/Debug-iphonesimulator/Primatch.app/senegal-bushbaby-map.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby-map.png34866d887fbbb541^2e1a6e887fbbb541^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby-map.png00f8ec03dcffdf42^592"CpResource Primatch/senegal-bushbaby-map.png build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby-map.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/senegal-bushbaby-map.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"22FA2780-1E0F-4356-8D17-B8864D0AA949-
+
+CCpResource Primatch/senegal-bushbaby.png build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby.png
+s364609416.412028
+e364609416.414645
+r1
+xCpResource
+xPrimatch/senegal-bushbaby.png
+xbuild/Debug-iphonesimulator/Primatch.app/senegal-bushbaby.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby.pngad8569887fbbb541^74296a887fbbb541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby.png00f8ec03dcffdf42^580"CpResource Primatch/senegal-bushbaby.png build/Debug-iphonesimulator/Primatch.app/senegal-bushbaby.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/senegal-bushbaby.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"349E5707-8906-447D-9007-C24C7137B56E-
+
+CCpResource Primatch/sumatran-orangutan-map.png build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan-map.png
+s364609416.423532
+e364609416.426563
+r1
+xCpResource
+xPrimatch/sumatran-orangutan-map.png
+xbuild/Debug-iphonesimulator/Primatch.app/sumatran-orangutan-map.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan-map.png79776c887fbbb541^11396d887fbbb541^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan-map.png00f8ec03dcffdf42^598"CpResource Primatch/sumatran-orangutan-map.png build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan-map.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/sumatran-orangutan-map.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"1724B2D6-A83F-4558-99F8-C68FDAB80D61-
+
+CCpResource Primatch/sumatran-orangutan.png build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan.png
+s364609416.414929
+e364609416.419180
+r1
+xCpResource
+xPrimatch/sumatran-orangutan.png
+xbuild/Debug-iphonesimulator/Primatch.app/sumatran-orangutan.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan.png126a6a887fbbb541^a8526b887fbbb541^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan.png00f8ec03dcffdf42^586"CpResource Primatch/sumatran-orangutan.png build/Debug-iphonesimulator/Primatch.app/sumatran-orangutan.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/sumatran-orangutan.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"1FC3096B-0277-4A6E-9AA9-D6C1B0FE75AD-
+
+CCpResource Primatch/western-gorilla-map.png build/Debug-iphonesimulator/Primatch.app/western-gorilla-map.png
+s364609416.419508
+e364609416.422071
+r1
+xCpResource
+xPrimatch/western-gorilla-map.png
+xbuild/Debug-iphonesimulator/Primatch.app/western-gorilla-map.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug-iphonesimulator/Primatch.app/western-gorilla-map.png86756b887fbbb541^90116c887fbbb541^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/western-gorilla-map.png00f8ec03dcffdf42^589"CpResource Primatch/western-gorilla-map.png build/Debug-iphonesimulator/Primatch.app/western-gorilla-map.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/western-gorilla-map.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"7F916A89-9680-4855-BF48-35DEEF74DC7B-
+
+CCpResource Primatch/western-gorilla.png build/Debug-iphonesimulator/Primatch.app/western-gorilla.png
+s364609416.411490
+e364609416.413704
+r1
+xCpResource
+xPrimatch/western-gorilla.png
+xbuild/Debug-iphonesimulator/Primatch.app/western-gorilla.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphonesimulator/Primatch.app/western-gorilla.png4d6569887fbbb541^52ef69887fbbb541^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/western-gorilla.png00f8ec03dcffdf42^577"CpResource Primatch/western-gorilla.png build/Debug-iphonesimulator/Primatch.app/western-gorilla.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/western-gorilla.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"A98015CA-8389-4DAB-93AE-E8D3C924B3F7-
+
+CCpResource Primatch/white-cheeked-spider-monkey.png build/Debug-iphonesimulator/Primatch.app/white-cheeked-spider-monkey.png
+s364609416.405902
+e364609416.410443
+r1
+xCpResource
+xPrimatch/white-cheeked-spider-monkey.png
+xbuild/Debug-iphonesimulator/Primatch.app/white-cheeked-spider-monkey.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy build/Debug-iphonesimulator/Primatch.app/white-cheeked-spider-monkey.png12f867887fbbb541^0a1469887fbbb541^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/white-cheeked-spider-monkey.png00f8ec03dcffdf42^613"CpResource Primatch/white-cheeked-spider-monkey.png build/Debug-iphonesimulator/Primatch.app/white-cheeked-spider-monkey.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/white-cheeked-spider-monkey.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"4D4148E7-6C51-4746-B488-9A0F21763F7E-
+
+CCpResource Primatch/yellow-baboon-map.png build/Debug-iphonesimulator/Primatch.app/yellow-baboon-map.png
+s364609416.430629
+e364609416.443412
+r1
+xCpResource
+xPrimatch/yellow-baboon-map.png
+xbuild/Debug-iphonesimulator/Primatch.app/yellow-baboon-map.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug-iphonesimulator/Primatch.app/yellow-baboon-map.pngcb476e887fbbb541^db8671887fbbb541^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/yellow-baboon-map.png00f8ec03dcffdf42^583"CpResource Primatch/yellow-baboon-map.png build/Debug-iphonesimulator/Primatch.app/yellow-baboon-map.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/yellow-baboon-map.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"B7D40636-F598-4F21-9344-DDC226D4247B-
+
+CCpResource Primatch/yellow-baboon.png build/Debug-iphonesimulator/Primatch.app/yellow-baboon.png
+s364609416.404480
+e364609416.410310
+r1
+xCpResource
+xPrimatch/yellow-baboon.png
+xbuild/Debug-iphonesimulator/Primatch.app/yellow-baboon.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug-iphonesimulator/Primatch.app/yellow-baboon.png8ba667887fbbb541^c70f69887fbbb541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/yellow-baboon.png00f8ec03dcffdf42^571"CpResource Primatch/yellow-baboon.png build/Debug-iphonesimulator/Primatch.app/yellow-baboon.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/yellow-baboon.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"75DECBC7-0239-4855-B6F6-DC1A7C06D2B8-
+
+CCpResource temp/lets-go-button.png build/Debug-iphonesimulator/Primatch.app/lets-go-button.png
+s364587917.005249
+e364587917.007499
+r1
+xCpResource
+xtemp/lets-go-button.png
+xbuild/Debug-iphonesimulator/Primatch.app/lets-go-button.png
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug-iphonesimulator/Primatch.app/lets-go-button.png9065018d2bbbb541^1af8018d2bbbb541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/lets-go-button.png0000000000000000^566"CpResource temp/lets-go-button.png build/Debug-iphonesimulator/Primatch.app/lets-go-button.png    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/jrichards/projects/MoversAndShakers/Primatch/temp/lets-go-button.png /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"1AD1A352-E758-4C11-8BE6-9F124537555E-
+
+CGenerateDSYMFile /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app.dSYM /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Primatch
+s364674291.273945
+e364674291.304932
+r1
+xGenerateDSYMFile
+x/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app.dSYM
+x/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Primatch
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generating /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app.dSYM327246f37cbcb541^b41e4ef37cbcb541^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app.dSYM/0000000000000000^538"GenerateDSYMFile build/Debug-iphonesimulator/Primatch.app.dSYM build/Debug-iphonesimulator/Primatch.app/Primatch    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Primatch -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app.dSYM36"8F3FF382-8321-49A5-9FB0-E23FBC470CFA-
+
+CLd /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Primatch normal i386
+s364674291.235864
+e364674291.272198
+r1
+xLd
+x/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Primatch
+xnormal
+xi386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Primatche2723cf37cbcb541^cfbb45f37cbcb541^---0#0#0#--1103"Ld build/Debug-iphonesimulator/Primatch.app/Primatch normal i386    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -F/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -filelist /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Objects-normal/i386/Primatch.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Primatch36"318141FF-8E0C-40B3-828E-90029E7F2444-
+
+CProcessInfoPlistFile /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Info.plist Primatch/Primatch-Info.plist
+s364581788.299337
+e364581788.327651
+r1
+xProcessInfoPlistFile
+x/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Info.plist
+xPrimatch/Primatch-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process Primatch/Primatch-Info.plistddb54c9c13bbb541^29e7539c13bbb541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/Primatch-Info.plist0000000000000000^632"ProcessInfoPlistFile build/Debug-iphonesimulator/Primatch.app/Info.plist Primatch/Primatch-Info.plist    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Primatch/Primatch-Info.plist -genpkginfo /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app/Info.plist36"59F78FD6-5DB3-4A69-9584-824F84995660-
+
+CProcessPCH /Users/jrichards/Library/Developer/Xcode/DerivedData/Primatch-ffzclqzgltuhqmasjtcdaxfwqrrk/Index/PrecompiledHeaders/Primatch-Prefix-fggjspmwujpdhbflzdqfdtqpwrxe_ast/Primatch-Prefix.pch.pth Primatch/Primatch-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch.pth Primatch/Primatch-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s364581788.331122
+e364581788.793140
+r1
+xProcessPCH
+x/var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch.pth
+xPrimatch/Primatch-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Primatch/Primatch-Prefix.pcha8e0549c13bbb541^ec18cb9c13bbb541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/Primatch-Prefix.pch0000000000000000^2801"ProcessPCH /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch.pth Primatch/Primatch-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-generated-files.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-own-target-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-all-target-headers.hmap -iquote /Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/Primatch-project-headers.hmap -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/include -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources/i386 -I/Users/jrichards/projects/MoversAndShakers/Primatch/build/Primatch.build/Debug-iphonesimulator/Primatch.build/DerivedSources -F/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator -c /Users/jrichards/projects/MoversAndShakers/Primatch/Primatch/Primatch-Prefix.pch -o /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/7m/7mKDPAXZF2KsVGp3EiABek+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Primatch-Prefix-gfguymdvhwwlupauaymenljkdlyf/Primatch-Prefix.pch.d36"1F72AE94-0ABC-4FC8-BF3F-249BF8184423-
+
+CTouch /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app
+s364674291.328015
+e364674291.335104
+r1
+xTouch
+x/Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Touch /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.appc40554f37cbcb541^97fe55f37cbcb541^---0#0#0#--352"Touch build/Debug-iphonesimulator/Primatch.app    cd /Users/jrichards/projects/MoversAndShakers/Primatch    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jrichards/projects/MoversAndShakers/Primatch/build/Debug-iphonesimulator/Primatch.app36"27C0AEE0-0392-4BE2-85C4-1D7EF2282684-
+

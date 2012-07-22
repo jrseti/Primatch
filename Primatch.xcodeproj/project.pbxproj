@@ -16,6 +16,40 @@
 		34A4603815BB1335003019AE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4603715BB1335003019AE /* ViewController.m */; };
 		34A4603B15BB1335003019AE /* ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34A4603915BB1335003019AE /* ViewController_iPhone.xib */; };
 		34A4603E15BB1335003019AE /* ViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34A4603C15BB1335003019AE /* ViewController_iPad.xib */; };
+		34A4604715BB1EE8003019AE /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4604615BB1EE8003019AE /* Default@2x.png */; };
+		34A4604A15BB1F24003019AE /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4604415BB1396003019AE /* Default.png */; };
+		34A4604E15BB2110003019AE /* WelcomeScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4604C15BB2110003019AE /* WelcomeScreen.m */; };
+		34A4604F15BB2110003019AE /* WelcomeScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34A4604D15BB2110003019AE /* WelcomeScreen.xib */; };
+		34A4605215BB2236003019AE /* background-main.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4605115BB2236003019AE /* background-main.png */; };
+		34A4605A15BB2EAA003019AE /* lets-go-button.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4605915BB2EAA003019AE /* lets-go-button.png */; };
+		34A4606315BB3524003019AE /* GameScreen1.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4606115BB3524003019AE /* GameScreen1.m */; };
+		34A4606415BB3524003019AE /* GameScreen1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34A4606215BB3524003019AE /* GameScreen1.xib */; };
+		34A4606615BB35AF003019AE /* background-blank.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4606515BB35AF003019AE /* background-blank.png */; };
+		34A4606915BB4EB5003019AE /* primates.xml in Resources */ = {isa = PBXBuildFile; fileRef = 34A4606815BB4EB5003019AE /* primates.xml */; };
+		34A4606C15BB4F22003019AE /* XMLReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4606B15BB4F22003019AE /* XMLReader.m */; };
+		34A4606F15BB5DCA003019AE /* NSString+ContainsSubstring.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4606E15BB5DCA003019AE /* NSString+ContainsSubstring.m */; };
+		34A4608415BB7BDB003019AE /* golden-lion-tamarin.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607015BB7BDB003019AE /* golden-lion-tamarin.png */; };
+		34A4608515BB7BDB003019AE /* chimpanzee.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607115BB7BDB003019AE /* chimpanzee.png */; };
+		34A4608615BB7BDB003019AE /* humam.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607215BB7BDB003019AE /* humam.png */; };
+		34A4608715BB7BDB003019AE /* black-lemur.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607315BB7BDB003019AE /* black-lemur.png */; };
+		34A4608815BB7BDB003019AE /* yellow-baboon.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607415BB7BDB003019AE /* yellow-baboon.png */; };
+		34A4608915BB7BDB003019AE /* white-cheeked-spider-monkey.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607515BB7BDB003019AE /* white-cheeked-spider-monkey.png */; };
+		34A4608A15BB7BDB003019AE /* western-gorilla.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607615BB7BDB003019AE /* western-gorilla.png */; };
+		34A4608B15BB7BDB003019AE /* senegal-bushbaby.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607715BB7BDB003019AE /* senegal-bushbaby.png */; };
+		34A4608C15BB7BDB003019AE /* sumatran-orangutan.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607815BB7BDB003019AE /* sumatran-orangutan.png */; };
+		34A4608D15BB7BDB003019AE /* proboscis-monkey.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607915BB7BDB003019AE /* proboscis-monkey.png */; };
+		34A4608E15BB7BDB003019AE /* western-gorilla-map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607A15BB7BDB003019AE /* western-gorilla-map.png */; };
+		34A4608F15BB7BDB003019AE /* chimpanzee-map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607B15BB7BDB003019AE /* chimpanzee-map.png */; };
+		34A4609015BB7BDB003019AE /* White-cheeked-spider-monkey-map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607C15BB7BDB003019AE /* White-cheeked-spider-monkey-map.png */; };
+		34A4609115BB7BDB003019AE /* sumatran-orangutan-map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607D15BB7BDB003019AE /* sumatran-orangutan-map.png */; };
+		34A4609215BB7BDB003019AE /* proboscis-monkey-map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607E15BB7BDB003019AE /* proboscis-monkey-map.png */; };
+		34A4609315BB7BDB003019AE /* senegal-bushbaby-map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4607F15BB7BDB003019AE /* senegal-bushbaby-map.png */; };
+		34A4609415BB7BDB003019AE /* golden-lion-tamarin-map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4608015BB7BDB003019AE /* golden-lion-tamarin-map.png */; };
+		34A4609515BB7BDB003019AE /* yellow-baboon-map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4608115BB7BDB003019AE /* yellow-baboon-map.png */; };
+		34A4609615BB7BDB003019AE /* human-map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4608215BB7BDB003019AE /* human-map.png */; };
+		34A4609715BB7BDB003019AE /* black-lemur-map.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4608315BB7BDB003019AE /* black-lemur-map.png */; };
+		34A4609915BBA423003019AE /* card-front.png in Resources */ = {isa = PBXBuildFile; fileRef = 34A4609815BBA422003019AE /* card-front.png */; };
+		34A4609F15BBB216003019AE /* CardImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 34A4609E15BBB216003019AE /* CardImageView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,16 +57,56 @@
 		34A4602415BB1335003019AE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		34A4602615BB1335003019AE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		34A4602815BB1335003019AE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		34A4602C15BB1335003019AE /* Primatch-Info.plist */ = {isa = PBXFileReference; path = "Primatch-Info.plist"; sourceTree = "<group>"; };
+		34A4602C15BB1335003019AE /* Primatch-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Primatch-Info.plist"; sourceTree = "<group>"; };
 		34A4602E15BB1335003019AE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		34A4603015BB1335003019AE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		34A4603215BB1335003019AE /* Primatch-Prefix.pch */ = {isa = PBXFileReference; path = "Primatch-Prefix.pch"; sourceTree = "<group>"; };
-		34A4603315BB1335003019AE /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		34A4603215BB1335003019AE /* Primatch-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Primatch-Prefix.pch"; sourceTree = "<group>"; };
+		34A4603315BB1335003019AE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		34A4603415BB1335003019AE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		34A4603615BB1335003019AE /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		34A4603615BB1335003019AE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		34A4603715BB1335003019AE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		34A4603A15BB1335003019AE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
 		34A4603D15BB1335003019AE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
+		34A4604415BB1396003019AE /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		34A4604615BB1EE8003019AE /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		34A4604815BB1F03003019AE /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape~ipad.png"; sourceTree = "<group>"; };
+		34A4604B15BB2110003019AE /* WelcomeScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WelcomeScreen.h; sourceTree = "<group>"; };
+		34A4604C15BB2110003019AE /* WelcomeScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WelcomeScreen.m; sourceTree = "<group>"; };
+		34A4604D15BB2110003019AE /* WelcomeScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WelcomeScreen.xib; sourceTree = "<group>"; };
+		34A4605115BB2236003019AE /* background-main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background-main.png"; sourceTree = "<group>"; };
+		34A4605915BB2EAA003019AE /* lets-go-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lets-go-button.png"; sourceTree = "<group>"; };
+		34A4606015BB3524003019AE /* GameScreen1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScreen1.h; sourceTree = "<group>"; };
+		34A4606115BB3524003019AE /* GameScreen1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameScreen1.m; sourceTree = "<group>"; };
+		34A4606215BB3524003019AE /* GameScreen1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GameScreen1.xib; sourceTree = "<group>"; };
+		34A4606515BB35AF003019AE /* background-blank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "background-blank.png"; sourceTree = "<group>"; };
+		34A4606815BB4EB5003019AE /* primates.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = primates.xml; sourceTree = "<group>"; };
+		34A4606A15BB4F22003019AE /* XMLReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMLReader.h; sourceTree = "<group>"; };
+		34A4606B15BB4F22003019AE /* XMLReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMLReader.m; sourceTree = "<group>"; };
+		34A4606D15BB5DCA003019AE /* NSString+ContainsSubstring.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+ContainsSubstring.h"; sourceTree = "<group>"; };
+		34A4606E15BB5DCA003019AE /* NSString+ContainsSubstring.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+ContainsSubstring.m"; sourceTree = "<group>"; };
+		34A4607015BB7BDB003019AE /* golden-lion-tamarin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "golden-lion-tamarin.png"; sourceTree = "<group>"; };
+		34A4607115BB7BDB003019AE /* chimpanzee.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chimpanzee.png; sourceTree = "<group>"; };
+		34A4607215BB7BDB003019AE /* humam.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = humam.png; sourceTree = "<group>"; };
+		34A4607315BB7BDB003019AE /* black-lemur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "black-lemur.png"; sourceTree = "<group>"; };
+		34A4607415BB7BDB003019AE /* yellow-baboon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-baboon.png"; sourceTree = "<group>"; };
+		34A4607515BB7BDB003019AE /* white-cheeked-spider-monkey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "white-cheeked-spider-monkey.png"; sourceTree = "<group>"; };
+		34A4607615BB7BDB003019AE /* western-gorilla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "western-gorilla.png"; sourceTree = "<group>"; };
+		34A4607715BB7BDB003019AE /* senegal-bushbaby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "senegal-bushbaby.png"; sourceTree = "<group>"; };
+		34A4607815BB7BDB003019AE /* sumatran-orangutan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sumatran-orangutan.png"; sourceTree = "<group>"; };
+		34A4607915BB7BDB003019AE /* proboscis-monkey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "proboscis-monkey.png"; sourceTree = "<group>"; };
+		34A4607A15BB7BDB003019AE /* western-gorilla-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "western-gorilla-map.png"; sourceTree = "<group>"; };
+		34A4607B15BB7BDB003019AE /* chimpanzee-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chimpanzee-map.png"; sourceTree = "<group>"; };
+		34A4607C15BB7BDB003019AE /* White-cheeked-spider-monkey-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "White-cheeked-spider-monkey-map.png"; sourceTree = "<group>"; };
+		34A4607D15BB7BDB003019AE /* sumatran-orangutan-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sumatran-orangutan-map.png"; sourceTree = "<group>"; };
+		34A4607E15BB7BDB003019AE /* proboscis-monkey-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "proboscis-monkey-map.png"; sourceTree = "<group>"; };
+		34A4607F15BB7BDB003019AE /* senegal-bushbaby-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "senegal-bushbaby-map.png"; sourceTree = "<group>"; };
+		34A4608015BB7BDB003019AE /* golden-lion-tamarin-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "golden-lion-tamarin-map.png"; sourceTree = "<group>"; };
+		34A4608115BB7BDB003019AE /* yellow-baboon-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yellow-baboon-map.png"; sourceTree = "<group>"; };
+		34A4608215BB7BDB003019AE /* human-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "human-map.png"; sourceTree = "<group>"; };
+		34A4608315BB7BDB003019AE /* black-lemur-map.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "black-lemur-map.png"; sourceTree = "<group>"; };
+		34A4609815BBA422003019AE /* card-front.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "card-front.png"; sourceTree = "<group>"; };
+		34A4609D15BBB216003019AE /* CardImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardImageView.h; sourceTree = "<group>"; };
+		34A4609E15BBB216003019AE /* CardImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardImageView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +126,10 @@
 		34A4601515BB1335003019AE = {
 			isa = PBXGroup;
 			children = (
+				34A4606715BB4E88003019AE /* Data */,
+				34A4604815BB1F03003019AE /* Default-Landscape~ipad.png */,
+				34A4604615BB1EE8003019AE /* Default@2x.png */,
+				34A4604415BB1396003019AE /* Default.png */,
 				34A4602A15BB1335003019AE /* Primatch */,
 				34A4602315BB1335003019AE /* Frameworks */,
 				34A4602115BB1335003019AE /* Products */,
@@ -79,6 +157,14 @@
 		34A4602A15BB1335003019AE /* Primatch */ = {
 			isa = PBXGroup;
 			children = (
+				34A4609D15BBB216003019AE /* CardImageView.h */,
+				34A4609E15BBB216003019AE /* CardImageView.m */,
+				34A4606A15BB4F22003019AE /* XMLReader.h */,
+				34A4606B15BB4F22003019AE /* XMLReader.m */,
+				34A4606115BB3524003019AE /* GameScreen1.m */,
+				34A4606015BB3524003019AE /* GameScreen1.h */,
+				34A4604C15BB2110003019AE /* WelcomeScreen.m */,
+				34A4604B15BB2110003019AE /* WelcomeScreen.h */,
 				34A4603315BB1335003019AE /* AppDelegate.h */,
 				34A4603415BB1335003019AE /* AppDelegate.m */,
 				34A4603615BB1335003019AE /* ViewController.h */,
@@ -86,6 +172,10 @@
 				34A4603915BB1335003019AE /* ViewController_iPhone.xib */,
 				34A4603C15BB1335003019AE /* ViewController_iPad.xib */,
 				34A4602B15BB1335003019AE /* Supporting Files */,
+				34A4605F15BB34D4003019AE /* XIB Files */,
+				34A4605015BB220A003019AE /* Images */,
+				34A4606D15BB5DCA003019AE /* NSString+ContainsSubstring.h */,
+				34A4606E15BB5DCA003019AE /* NSString+ContainsSubstring.m */,
 			);
 			path = Primatch;
 			sourceTree = "<group>";
@@ -99,6 +189,55 @@
 				34A4603215BB1335003019AE /* Primatch-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		34A4605015BB220A003019AE /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				34A4606515BB35AF003019AE /* background-blank.png */,
+				34A4605915BB2EAA003019AE /* lets-go-button.png */,
+				34A4605115BB2236003019AE /* background-main.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		34A4605F15BB34D4003019AE /* XIB Files */ = {
+			isa = PBXGroup;
+			children = (
+				34A4604D15BB2110003019AE /* WelcomeScreen.xib */,
+				34A4606215BB3524003019AE /* GameScreen1.xib */,
+			);
+			name = "XIB Files";
+			sourceTree = "<group>";
+		};
+		34A4606715BB4E88003019AE /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				34A4609815BBA422003019AE /* card-front.png */,
+				34A4607015BB7BDB003019AE /* golden-lion-tamarin.png */,
+				34A4607115BB7BDB003019AE /* chimpanzee.png */,
+				34A4607215BB7BDB003019AE /* humam.png */,
+				34A4607315BB7BDB003019AE /* black-lemur.png */,
+				34A4607415BB7BDB003019AE /* yellow-baboon.png */,
+				34A4607515BB7BDB003019AE /* white-cheeked-spider-monkey.png */,
+				34A4607615BB7BDB003019AE /* western-gorilla.png */,
+				34A4607715BB7BDB003019AE /* senegal-bushbaby.png */,
+				34A4607815BB7BDB003019AE /* sumatran-orangutan.png */,
+				34A4607915BB7BDB003019AE /* proboscis-monkey.png */,
+				34A4607A15BB7BDB003019AE /* western-gorilla-map.png */,
+				34A4607B15BB7BDB003019AE /* chimpanzee-map.png */,
+				34A4607C15BB7BDB003019AE /* White-cheeked-spider-monkey-map.png */,
+				34A4607D15BB7BDB003019AE /* sumatran-orangutan-map.png */,
+				34A4607E15BB7BDB003019AE /* proboscis-monkey-map.png */,
+				34A4607F15BB7BDB003019AE /* senegal-bushbaby-map.png */,
+				34A4608015BB7BDB003019AE /* golden-lion-tamarin-map.png */,
+				34A4608115BB7BDB003019AE /* yellow-baboon-map.png */,
+				34A4608215BB7BDB003019AE /* human-map.png */,
+				34A4608315BB7BDB003019AE /* black-lemur-map.png */,
+				34A4606815BB4EB5003019AE /* primates.xml */,
+			);
+			name = Data;
+			path = Primatch;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,6 +294,35 @@
 				34A4602F15BB1335003019AE /* InfoPlist.strings in Resources */,
 				34A4603B15BB1335003019AE /* ViewController_iPhone.xib in Resources */,
 				34A4603E15BB1335003019AE /* ViewController_iPad.xib in Resources */,
+				34A4604715BB1EE8003019AE /* Default@2x.png in Resources */,
+				34A4604A15BB1F24003019AE /* Default.png in Resources */,
+				34A4604F15BB2110003019AE /* WelcomeScreen.xib in Resources */,
+				34A4605215BB2236003019AE /* background-main.png in Resources */,
+				34A4605A15BB2EAA003019AE /* lets-go-button.png in Resources */,
+				34A4606415BB3524003019AE /* GameScreen1.xib in Resources */,
+				34A4606615BB35AF003019AE /* background-blank.png in Resources */,
+				34A4606915BB4EB5003019AE /* primates.xml in Resources */,
+				34A4608415BB7BDB003019AE /* golden-lion-tamarin.png in Resources */,
+				34A4608515BB7BDB003019AE /* chimpanzee.png in Resources */,
+				34A4608615BB7BDB003019AE /* humam.png in Resources */,
+				34A4608715BB7BDB003019AE /* black-lemur.png in Resources */,
+				34A4608815BB7BDB003019AE /* yellow-baboon.png in Resources */,
+				34A4608915BB7BDB003019AE /* white-cheeked-spider-monkey.png in Resources */,
+				34A4608A15BB7BDB003019AE /* western-gorilla.png in Resources */,
+				34A4608B15BB7BDB003019AE /* senegal-bushbaby.png in Resources */,
+				34A4608C15BB7BDB003019AE /* sumatran-orangutan.png in Resources */,
+				34A4608D15BB7BDB003019AE /* proboscis-monkey.png in Resources */,
+				34A4608E15BB7BDB003019AE /* western-gorilla-map.png in Resources */,
+				34A4608F15BB7BDB003019AE /* chimpanzee-map.png in Resources */,
+				34A4609015BB7BDB003019AE /* White-cheeked-spider-monkey-map.png in Resources */,
+				34A4609115BB7BDB003019AE /* sumatran-orangutan-map.png in Resources */,
+				34A4609215BB7BDB003019AE /* proboscis-monkey-map.png in Resources */,
+				34A4609315BB7BDB003019AE /* senegal-bushbaby-map.png in Resources */,
+				34A4609415BB7BDB003019AE /* golden-lion-tamarin-map.png in Resources */,
+				34A4609515BB7BDB003019AE /* yellow-baboon-map.png in Resources */,
+				34A4609615BB7BDB003019AE /* human-map.png in Resources */,
+				34A4609715BB7BDB003019AE /* black-lemur-map.png in Resources */,
+				34A4609915BBA423003019AE /* card-front.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -168,6 +336,11 @@
 				34A4603115BB1335003019AE /* main.m in Sources */,
 				34A4603515BB1335003019AE /* AppDelegate.m in Sources */,
 				34A4603815BB1335003019AE /* ViewController.m in Sources */,
+				34A4604E15BB2110003019AE /* WelcomeScreen.m in Sources */,
+				34A4606315BB3524003019AE /* GameScreen1.m in Sources */,
+				34A4606C15BB4F22003019AE /* XMLReader.m in Sources */,
+				34A4606F15BB5DCA003019AE /* NSString+ContainsSubstring.m in Sources */,
+				34A4609F15BBB216003019AE /* CardImageView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

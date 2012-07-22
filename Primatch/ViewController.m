@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "WelcomeScreen.h"
 
 @implementation ViewController
 
@@ -34,6 +35,9 @@
 - (void)viewWillAppear:(BOOL)animated
 {
     [super viewWillAppear:animated];
+    
+    WelcomeScreen *myView = [[WelcomeScreen alloc] initWithNibName:@"WelcomeScreen" bundle: [NSBundle mainBundle]]; 
+    [self.view addSubview: myView.view];
 }
 
 - (void)viewDidAppear:(BOOL)animated

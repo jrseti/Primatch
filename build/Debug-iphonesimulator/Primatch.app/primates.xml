@@ -1,0 +1,137 @@
+<xml>
+    
+    <primates>
+        
+        <primate>
+            <name>Black Lemur</name>
+            <family>Lemuridae</family>
+            <genus>Eulemur</genus>
+            <location>Madagasscar</location>
+            <pic>black-lemur.png</pic>
+            <pic_license></pic_license>
+            <location_pic>black-lemur-map.png</location_pic>
+            <location_pic_license></location_pic_license>
+            <link>http://en.wikipedia.org/wiki/Black_lemur</link>
+            <description>Likes to eat fruit. Females give birth at about 2 years of age. The black lemur lives in forests.</description>
+        </primate>
+        
+        <primate>
+            <name>White-Cheeked Spider Monkey</name>
+            <family>Atelidae</family>
+            <genus>Atetes</genus>
+            <location>Between Rio Tapajs and RioTeles Pires</location>
+            <pic>white-cheeked-spider-monkey.png</pic>
+            <pic_license></pic_license>
+            <location_pic>white-cheeked-spider-monkey-map.png</location_pic>
+            <location_pic_license></location_pic_license>   
+            <link>http://en.wikipedia.org/wiki/White-cheeked_spider_monkey</link>
+            <description>They live groups of 20-30 individuals, but it is rare for all of the group to be seen together.</description>
+        </primate>
+        
+        <primate>
+            <name>Chimpanzee</name>
+            <family>Hominidae</family>
+            <genus>Pan</genus>
+            <location>Africa</location>
+            <pic>chimpanzee.png</pic>
+            <pic_license></pic_license>
+            <location_pic>chimpanzee-map.png</location_pic>   
+            <location_pic_license></location_pic_license>   
+            <link>http://en.wikipedia.org/wiki/Chimpanzee</link>
+            <description>They will use tools such as rocks grass and sticks to harvesting honey, termites, nuts, and water but thats not all they eat. They also eat fruit leaves and leaf buds. They are also very social animals and they use grooming on one another to bond.</description>
+        </primate>
+        
+        <primate>
+            <name>Western Gorilla</name>
+            <family>Hominida</family>
+            <genus>Gorilla</genus>
+            <location>Africa</location>
+            <pic>western-gorilla.png</pic>
+            <pic_license></pic_license>
+            <location_pic>western-gorilla-map.png</location_pic>   
+            <location_pic_license></location_pic_license>   
+            <link>http://en.wikipedia.org/wiki/Western_gorilla</link>
+            <description>They are slightly shorter then the eastern gorilla. The World Conservation Union lists the them as critically endangered.</description>
+        </primate>
+        
+        <primate>
+            <name>Human</name>
+            <family>Hominidae</family>
+            <genus>Homo</genus>
+            <location>Most of the World</location>
+            <pic>humam.png</pic>
+            <pic_license></pic_license>
+            <location_pic>human-map.png</location_pic>   
+            <location_pic_license></location_pic_license>   
+            <link>http://en.wikipedia.org/wiki/Human</link>
+            <description>Humans use speech to communicate they use hand motions also. Since the year 1800, the human population has escalated from one billion to over seven billion. Humans are are capable of consuming a large variety of plant and animal material.</description>
+        </primate>
+        
+        <primate>
+            <name>Yellow Baboon</name>
+            <family>Cercopithecidae</family>
+            <genus>Papio</genus>
+            <location>Eastern Africa</location>
+            <pic>yellow-baboon.png</pic>
+            <pic_license></pic_license>
+            <location_pic>yellow-baboon-map.png</location_pic>   
+            <location_pic_license></location_pic_license>   
+            <link>http://en.wikipedia.org/wiki/Yellow_Baboon</link>
+            <description>Baboons are important to their habitat not only serving as food for larger animals but also aiding seeds because of there messy habits.</description>
+        </primate>
+        
+        <primate>
+            <name>Golden Lion Tamarin</name>
+            <family>Callitrichadae</family>
+            <genus>Leotopithecus</genus>
+            <location>Brazil</location>
+            <pic>golden-lion-tamarin.png</pic>
+            <pic_license></pic_license>
+            <location_pic>golden-lion-tamarin.png</location_pic>   
+            <location_pic_license></location_pic_license>   
+            <link>http://en.wikipedia.org/wiki/Golden_Lion_Tamarin</link>
+            <description>It was popular in the 16th century to have them as pets. They are active for 12 hours of the day.</description>
+        </primate>
+        
+        <primate>
+            <name>Senegal Bushbaby</name>
+            <family></family>
+            <genus>Galagidae</genus>
+            <location>Africa</location>
+            <pic>senegal-bushbaby.png</pic>
+            <pic_license></pic_license>
+            <location_pic>senegal-bushbaby-map.png</location_pic>   
+            <location_pic_license></location_pic_license>   
+            <link>http://en.wikipedia.org/wiki/Senegal_Bushbaby</link>
+            <description>Western chimpanzees hunt these bushbabies. They are not at all endangered.</description>
+        </primate>
+        
+        <primate>
+            <name>Proboscis</name>
+            <family>Cercopithecidae</family>
+            <genus>Nasalis</genus>
+            <location>Borneo</location>
+            <pic>proboscis-monkey.png</pic>
+            <pic_license></pic_license>
+            <location_pic>proboscis-monkey-map.png</location_pic>   
+            <location_pic_license></location_pic_license>   
+            <link>http://en.wikipedia.org/wiki/Proboscis_monkey</link>
+            <description>This primate is known for its large nose. They are endangered.</description>
+        </primate>
+        
+        <primate>
+            <name>Sumatrann Orangutan</name>
+            <family>Hominidae</family>
+            <genus>Pongo</genus>
+            <location>Bornean lowlands</location>
+            <pic>sumatran-orangutan.png</pic>
+            <pic_license></pic_license>
+            <location_pic>sumatran-orangutan-map.png</location_pic>   
+            <location_pic_license></location_pic_license>   
+            <link>http://en.wikipedia.org/wiki/Sumatran_Orangutan</link>
+            <description>They eat over 400 types of food including wild figs, durian, leaves, seeds, bird eggs, flowers, honey, and insects.</description>
+        </primate>
+        
+    </primates>
+    
+</xml>
